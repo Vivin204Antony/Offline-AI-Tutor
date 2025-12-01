@@ -106,8 +106,4 @@ Offline-A.I-Tutor/
 
 This project is licensed under the MIT License - see the LICENSE file for details
 
-## Contact
 
-Nithesh Raja - (https://github.com/NitheshRaja)
-
-Project Link: [https://github.com/NitheshRaja/Offline-A.I-Tutor](https://github.com/NitheshRaja/Offline-A.I-Tutor) 
